@@ -33,7 +33,6 @@ Tecnologías utilizadas
 Instalación
 
 1. Clonar el repositorio:
-   git clone https://github.com/tu-usuario/tres-en-raya-minimax-visual.git
    cd tres-en-raya-minimax-visual
 
 2. Instalar las dependencias:
